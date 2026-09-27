@@ -1,5 +1,15 @@
 # 📊 Customer Churn Prediction
 
+## 🚀 Live Demo
+
+👉 **[Try the Customer Churn Prediction App](https://customer-churn-prediction-dwrdszzszjjnghwjnjzipy.streamlit.app/)**
+
+Predict customer churn probability using the deployed Machine Learning model.
+
+---
+
+# 📊 Customer Churn Prediction
+
 An end-to-end Machine Learning project that predicts customer churn
 using customer demographics, services, contract information, and
 billing data.
