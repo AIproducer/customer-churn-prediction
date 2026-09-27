@@ -240,6 +240,25 @@ The application returns:
 - Churn prediction
 - Churn probability
 
+## 📸 Project Screenshots
+
+### Streamlit Prediction App
+
+The Streamlit application allows users to enter customer information and receive a churn prediction with the estimated churn probability.
+
+![Streamlit Customer Churn Prediction](screenshots/streamlit_app.png)
+
+### Model Comparison
+
+The project evaluates Logistic Regression, Random Forest, and Tuned Logistic Regression using multiple classification metrics.
+
+![Model Comparison](screenshots/model_comparison.png)
+
+### ROC Curve
+
+The Logistic Regression model achieved a ROC-AUC of approximately 0.84 on the held-out test set.
+
+![Logistic Regression ROC Curve](screenshots/roc_curve.png)
 ---
 
 ## 📁 Project Structure
